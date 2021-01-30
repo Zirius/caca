@@ -1,0 +1,11 @@
+{
+  "name": "caca",
+  "version": "0.1.0",
+  "description": "Eeemmm.... Bater (●'◡'●)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "author": "ElWalter",
+  "license": "MIT"
+}
